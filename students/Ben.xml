@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<student firstName="Ben" lastName="Ricks">
+	<favorite-ide>Eclipse</favorite-ide>
+	<favorite-language>Java</favorite-language>
+	<favorite-paradigm>Stuff and Things at 10.1.1.109</favorite-paradigm>
+</student>

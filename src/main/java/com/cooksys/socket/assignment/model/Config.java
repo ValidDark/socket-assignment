@@ -16,7 +16,10 @@ public class Config {
 
     @XmlElement(name = "student-file-path")
     private String studentFilePath;
-
+    
+    @XmlElement(name = "students-file-path")
+    private String studentsFilePath;
+    
     public LocalConfig getLocal() {
         return local;
     }
@@ -40,4 +43,16 @@ public class Config {
     public void setStudentFilePath(String studentFilePath) {
         this.studentFilePath = studentFilePath;
     }
+
+	public String getStudentsFilePath()
+	{
+		return studentsFilePath;
+	}
+
+	public void setStudentsFilePath(String studentsFilePath)
+	{
+		this.studentsFilePath = studentsFilePath;
+	}
+    
+    
 }
