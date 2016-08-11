@@ -1,6 +1,1 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<student firstName="David" lastName="Karl">
-	<favorite-ide>Code::Blocks</favorite-ide>
-	<favorite-language>C++</favorite-language>
-	<favorite-paradigm>Object-oriented</favorite-paradigm>
-</student>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><student firstName="David" lastName="Karl"><favorite-ide>Code::Blocks</favorite-ide><favorite-language>C++</favorite-language><favorite-paradigm>Object Oriented</favorite-paradigm></student>
